@@ -17,7 +17,7 @@ infile.close()
 #print(sequence)
 
 ########################
-## Set empty vsariable ##
+## Set empty variable! ##
 ########################
 
 A=0
